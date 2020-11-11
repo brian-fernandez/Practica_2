@@ -222,7 +222,7 @@ body
 }
 .top.active{
   position: fixed;
-  background-color: white;
+  background-color: transparent;
   padding: 10px;
   font-size:2em;
   top: 90%;
