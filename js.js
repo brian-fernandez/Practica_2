@@ -106,13 +106,6 @@ $("#img1").click
 
     
 });
-
-
-
-
-
-
-
 $("#img2").click
 (function () 
 { 
@@ -124,7 +117,6 @@ $("#img2").click
 
     
 });
-
 $("#img3").click
 (function () 
 { 
